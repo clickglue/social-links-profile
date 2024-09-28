@@ -34,9 +34,6 @@ article {
   min-width:22rem;
 }
 
-.main-section-profile {
-}
-
 .profile-picture-container {
   display: flex;
   justify-content: center;
@@ -62,9 +59,6 @@ article {
   font-weight: var(--light);
 }
 
-.main-section-links {
-}
-
 .links-card {
   margin-top: 1.2rem;
   padding: 1rem;
@@ -72,4 +66,9 @@ article {
   border-radius: 0.5rem;
   font-size: medium;
   font-weight: var(--heavy);
+}
+
+.links-card:hover{
+    background-color: var(--Green);
+    color: var(--Grey-dark);
 }
