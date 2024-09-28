@@ -28,7 +28,7 @@ article {
   border-radius: 1rem;
   margin: 1rem;
   padding: 1rem;
-  background-color: var(--Grey-dark);
+  background-color: var(--Grey-medium);
   color: var(--White);
   font-family: "Inter";
   min-width:22rem;
