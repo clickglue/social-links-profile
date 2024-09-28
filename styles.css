@@ -1,0 +1,75 @@
+:root {
+  /*colors*/
+  --Green: hsl(75, 94%, 57%);
+  --White: hsl(0, 0%, 100%);
+  --Grey-light: hsl(0, 0%, 20%);
+  --Grey-medium: hsl(0, 0%, 12%);
+  --Grey-dark: hsl(0, 0%, 8%);
+
+  /*font weighst*/
+  --light: 400;
+  --medium: 600;
+  --heavy: 700;
+}
+
+html {
+  background-color: black;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+article {
+  border-radius: 1rem;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: var(--Grey-dark);
+  color: var(--White);
+  font-family: "Inter";
+  min-width:22rem;
+}
+
+.main-section-profile {
+}
+
+.profile-picture-container {
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+}
+.profile-picture {
+  border-radius: 50%;
+  max-height: 7rem;
+}
+.profile-name {
+  padding: 0.5rem;
+  font-size: x-large;
+  font-weight: var(--medium);
+}
+.profile-location {
+  font-size: medium;
+  font-weight: var(--medium);
+  color: var(--Green);
+}
+.profile-description {
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+  font-weight: var(--light);
+}
+
+.main-section-links {
+}
+
+.links-card {
+  margin-top: 1.2rem;
+  padding: 1rem;
+  background-color: var(--Grey-light);
+  border-radius: 0.5rem;
+  font-size: medium;
+  font-weight: var(--heavy);
+}
