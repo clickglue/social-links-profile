@@ -28,30 +28,30 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot%202024-09-28%20at%2015.51.14.png)
+![](./Screenshot%202024-09-28%20at%2017.52.56.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [On Github](https://clickglue.github.io/blog-post/)
+- Solution URL: [Code on Github](https://github.com/clickglue/social-links-profile)
+- Live Site URL: [Page on Github](https://clickglue.github.io/social-links-profile/)
 
 ## My process
 
 - [x] Create Git repo and connect to VSC repo
 - [x] Add reset.css file
 - [x] Create styles.css file
-- [ ] HTML
+- [x] HTML
   - [x] Header
     - [x] Link fonts
     - [x] Link reset.css
     - [x] Link styles.css
-  - [ ] Body
-    - [ ] Create anchors (main, header, footer)
-    - [ ] Structure content with ```<article>``` and ```<section>```
-    - [ ] Put content in sections
-    - [ ] Put VAR's in styles.css
-    - [ ] CSS sections
-    - [ ] CSS content
+  - [x] Body
+    - [x] Create anchors (main, header, footer)
+    - [x] Structure content with ```<article>``` and ```<section>```
+    - [x] Put content in sections
+    - [x] Put VAR's in styles.css
+    - [x] CSS sections
+    - [x] CSS content
 
 ### Built with
 
@@ -63,6 +63,7 @@ Users should be able to:
 
 ### What I learned
 
+Chrome inspector for adaptive sizes
 Analyzing an image before starting to program
 Experiment with a structured workflow
 Working with CSS variables
